@@ -21,7 +21,7 @@ header{
   grid-template-rows: 100%;
   justify-content: space-around;
   align-items: center;
-  background-color: white;
+  background-color: aqua;
 }
 
 #head1{
@@ -34,8 +34,8 @@ header{
 }
 
 #head1 img{
-  width: 40%;
-  height: 80%;
+  width: 30%;
+  height: 85%;
   border: 1px solid black;
 }
 
@@ -58,7 +58,7 @@ header{
 }
 
 #contLista{
-  width: 100%;
+  width: 50%;
   height: 80%;
   display: flex;
   flex-direction: row;

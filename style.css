@@ -185,7 +185,7 @@ footer{
   height: 20%;
   background-color:aqua;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
   border-radius: 20px;
   margin: 0.5rem;
